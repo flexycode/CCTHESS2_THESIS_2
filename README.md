@@ -39,7 +39,7 @@ The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpos
 This project is licensed under the [insert license name]. You can find more details in the LICENSE file.
 
 # Contact
-If you have any questions or suggestions regarding this project, feel free to reach out to me at [provide your contact information].
+If you have any questions or suggestions regarding this project, feel free to reach out to me at flexyledger@gmail.com
 
 ##### Thank you for your interest in my CCTHESS2_THESIS_2 project!
 
