@@ -1,17 +1,17 @@
-# CCTHESS2_THESIS_2
+# 💻 CCTHESS2_THESIS_2
 
 #### Welcome to the repository for my CCTHESS2_THESIS_2 project! This project is part of my thesis for the subject CCTHESS2 (Computer Science Thesis 2). Please reach out to me first before steam anything from this repo!!
 Continuation for my Thesis 1
 
-## Description
+## 💻 Description
 The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpose of your thesis project]. It focuses on [mention the key areas or functionalities your project covers]. The goal of this project is to [explain the expected outcome or contribution of your thesis project].
 
-## Proof-of-concept
+## 💻 Proof-of-concept
 1. Artificial Inteligence + Biology
 2. BioInformatics
 3. ChemTech
 
-# Installation 
+# 💻 Installation 
 ### To run this project locally, please follow these steps:
 
 1. Ensure you have [list any specific software or dependencies required for the project].
