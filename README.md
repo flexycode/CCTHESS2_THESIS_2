@@ -11,7 +11,7 @@ The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpos
 2. BioInformatics
 3. ChemTech
 
-# 💻 Installation 
+# 💻 Installation    
 ### To run this project locally, please follow these steps:
 
 1. Ensure you have [list any specific software or dependencies required for the project].
@@ -40,7 +40,7 @@ The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpos
 5. Open a pull request on the original repository and provide a clear description of your changes.
 
 # License
-This project is licensed under the [insert license name]. You can find more details in the LICENSE file.
+This project is licensed under the [Artificial Ledger](https://github.com/Artificial-Ledger-Technology). You can find more details in the LICENSE file.
 
 # Contact
 If you have any questions or suggestions regarding this project, feel free to reach out to me at flexyledger@gmail.com
