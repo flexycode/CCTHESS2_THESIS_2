@@ -39,10 +39,10 @@ The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpos
 4. Push your changes to your forked repository: git push origin feature/your-feature-name.
 5. Open a pull request on the original repository and provide a clear description of your changes.
 
-# License
+# 🔐 License
 This project is licensed under the [Artificial Ledger](https://github.com/Artificial-Ledger-Technology). You can find more details in the LICENSE file.
 
-# Contact
+# 🕵️ Contact
 If you have any questions or suggestions regarding this project, feel free to reach out to me at flexyledger@gmail.com and flexycode.dev@gmail.com
 
 ##### Thank you for your interest in my CCTHESS2_THESIS_2 project!
