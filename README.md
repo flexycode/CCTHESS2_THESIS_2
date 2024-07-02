@@ -21,7 +21,7 @@ The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpos
 
 5. [If applicable, provide any additional configuration steps, such as setting up a database or environment variables].
    
-# Usage
+# 📋 Usage
 ### To use the CCTHESS2_THESIS_2 project, follow these guidelines:
 
 1. [Provide a brief overview of how to run or execute the project].
