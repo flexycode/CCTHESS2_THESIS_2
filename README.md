@@ -29,7 +29,7 @@ The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpos
 3. [If applicable, provide examples or sample inputs to demonstrate the project's functionality].
 4. [Explain the expected outputs or results].
 
-# Contributing 
+# 📈 Contributing 
 
 #### I appreciate any contributions or feedback to enhance this project. If you would like to contribute, please follow these steps:
 
