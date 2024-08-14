@@ -1,14 +1,22 @@
-# 💻 CCTHESS2_THESIS_2
+# 💫 CCTHESS2 - THESIS 2
 
-#### Welcome to the repository for my CCTHESS2_THESIS_2 project! This project is part of my thesis for the subject CCTHESS2 (Computer Science Thesis 2). Please reach out to me first before steam anything from this repo!!
-Continuation for my Thesis 1
+### Name: [Jay Arre Talosig](https://github.com/flexycode)  
+### Subject & Section: CCTHESS2 - Coming soon in 2026 
+### Professor: TBA  
+### No. of Units: 3 Units
+### Prerequisite: [None](https://www.youtube.com/watch?v=KyUVo8ijZ98)
+
+### 💻 CCTHESS2_THESIS_2
+
+#### Welcome to the repository for my CCTHESS2_THESIS_2 project! This project is part of my thesis for the subject CCTHESS2 (Computer Science Thesis 2). Please reach out to me first before steal anything from this repo ideas!!
+This is continuation for my Thesis 1
 
 ## 💻 Description
 The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpose of your thesis project]. It focuses on [mention the key areas or functionalities your project covers]. The goal of this project is to [explain the expected outcome or contribution of your thesis project].
 
 ## 💻 Proof-of-concept
 1. **Artificial Inteligence + Biology**
-2. **BioInformatics**
+2. **BioInformatics** This mostly what I want but I need to talk with some Professor if this is the best approach to deal with in my solo thesis proposal
 3. **ChemTech** I mean Chemical Technology with some Laboratory expedition need required if I'm going to go with this one
    
 Best thesis/research? 😅
