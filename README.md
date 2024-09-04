@@ -18,6 +18,7 @@ The CCTHESS2_THESIS_2 project aims to [briefly describe the objective and purpos
 1. **Artificial Inteligence + Biology**
 2. **BioInformatics** This mostly what I want but I need to talk with some Professor if this is the best approach to deal with in my solo thesis proposal
 3. **ChemTech** I mean Chemical Technology with some Laboratory expedition need required if I'm going to go with this one
+4. **Decentralized Artificial Intelligence**
    
 Best thesis/research? 😅
 Here are some revised thesis titles that incorporate specific problems faced by communities and businesses, which could be addressed using AI, IoT, smart algorithms, machine learning, and big data:
