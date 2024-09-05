@@ -42,6 +42,8 @@ Here are some revised thesis titles that incorporate specific problems faced by 
 
 11. **Enhancing Customer Experience in Retail:** AI-Driven IoT Solutions Using Smart Algorithms and Machine Learning on Big Data for Personalized Shopping
 
+12. **Smart Aquaculture Farm Management System** A smart aquaculture farm management system utilizing IoT devices is a cutting-edge solution that leverages advanced technologies to optimize fish farming operations, improve efficiency, and reduce costs. This system integrates various IoT devices and sensors to collect real-time data on water quality, temperature, pH, oxygen levels, and other environmental parameters.
+
 These titles focus on solving real-world problems in various sectors such as healthcare, agriculture, urban development, manufacturing, public safety, environmental management, and retail, using the advanced technologies mentioned
 
 # 💻 Installation    
